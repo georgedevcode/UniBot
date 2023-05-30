@@ -1,0 +1,62 @@
+{
+  "Hay proceso de admision?": [
+    "No, no hay proceso de admision",
+    "No, no tenemos proceso de admision"
+  ],
+  "Como te llamas?": [
+    "Me llamo UniBot"
+  ],
+  "Que horarios tienen disponibles?": [
+    "De lunes a Sabado de 7 am a 9:30 pm",
+    "Entre Semana: De lunes a Sabado en el horario de 7 am a 9:30 pm"
+  ],
+  "Se pueden pasar materias por suficiencia?": [
+    "Si, aplicamos suficiencia para todas las materia, para ello debes de realizar un examen de suficiencia acorde a la materia que se presenta en el curso.",
+    "Si, debes presentar la solicitud en la oficina de registro"
+  ],
+  "Cuanto dura la carrera?": [
+    "La carrera dura 9 cuatrimestres de bachillerato y 1 cuatrimestre de licenciatura",
+    "Todo el programa de bachillerato e incluyendo la licenciatura, dura 10 cuatrimestres"
+  ],
+  "Cuales metodos de pago ofrecen?": [
+    "Tenemos letras de cambio, tasa cero y pagos de contado",
+    "Contamos con varios metodos de pago: letras de cambio, tasa cero y pagos de contado"
+  ],
+  "Cuantas materias puedo llevar por cuatrimestre?": [
+    "Puedes llevar un minimo de 1 materia y un maximo de 6 materias. Pero para aplicar a becas minimo 2 materias por cuatrimestre.",
+    "Puede llevar un minimo de 1 materia y un maximo de 6 materias"
+  ],
+  "Hacen convalidaciones de materias?": [
+    "Si, hacemos convalidaciones de materias, debes presentarte al registro de la universidad para iniciar el proceso.",
+    "Si, para iniciar el proceso de convalidaciones de materias debes presentarte al registro de la universidad"
+  ],
+  "Quiero informacion de una carrera?": [
+    "Cual seria la carrera deseada?",
+    "Cual carrera?"
+  ],
+  "Quiero informacion de la carrera ingenieria en software?": [
+    "Que tipo de informacion quieres?",
+    "Un gusto ayudarte, que tipo de informacion deseas saber?"
+  ],
+  "Que precios tienen las materias?": [
+    "Las materias van desde los 100 mil colones a los 250 mil colones",
+    "Desde los 100 mil colones a los 250 mil colones"
+  ],
+  "Estas materias cuentan con modalidad virtual y/o presencial?": [
+    "Ambas",
+    "Las practicas son presenciales pero hay algunas materias como Calculo e Ingles que son virtuales"
+  ],
+  "Hay oportunidades de intercambio entre universidades?": [
+    "Si, nuestra universidad posee programas de intercambio para estudiantes activos.",
+    "Si, contamos con programas de intercambio para estudiantes activos"
+  ],
+  "Hay algun tipo de ayuda financiera disponible para los estudiantes?": [
+    "Contamos con becas desde el 20% al 50%."
+  ],
+  "Hay instalaciones deportivas en el campus?": [
+    "Si, tenemos cancha de futbol sala, basketball, piscina de natacion y gimnasio"
+  ],
+  "Cual seria el precio total de la carrera?": [
+    "Actualmente el costo total de la carrera es de 7 millones de colones"
+  ]
+}
